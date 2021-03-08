@@ -9,8 +9,8 @@ class StrClass:
         odd_ListToString = "".join([str(letter) for letter in odd_inp_list])
         print(evn_ListToString, odd_ListToString)
 
-x = int(input('Please enter the number of words: ',))
+x = int(input())
 for i in range(0, x):
-    inp_str = str(input('Please enter the the word: ',))
+    inp_str = str(input())
     n = StrClass(inp_str)
     n.Print_all()
