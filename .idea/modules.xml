@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/30_days_of_code(HackerRank).iml" filepath="$PROJECT_DIR$/.idea/30_days_of_code(HackerRank).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/30_Day_Challenge.iml" filepath="$PROJECT_DIR$/.idea/30_Day_Challenge.iml" />
     </modules>
   </component>
 </project>
